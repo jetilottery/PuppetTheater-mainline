@@ -1,0 +1,76 @@
+{
+	"audioLoader": {
+        "yes": "是",
+        "no": "否",
+        "confirm": "是否打开音乐?"
+    },
+	"demo": 								"试玩",
+	"button_play": 							"开始",
+	"button_buy": 							"购买",
+	"button_try": 							"试玩",
+	"button_continue":						"继续",
+	"button_auto":                          "自动",
+	"button_cancel":                        "取消自动",
+	"button_move2moneyGame":				"现金游戏",
+	"wager":								"单注金额",
+	"balance":								"余额:",
+	"wins":									"奖励:",
+	"wins_demo":							"试玩奖励：",
+	"button_reveal":						"全部打开",
+	"message_nonWin":						"下次好运",
+	"message_buyWin":						"恭喜，你赢得了",
+	"message_tryWin":						"恭喜，运气不错\n试试现金游戏吧",
+	"message_anonymousTryWin":				"恭喜，你将赢得",
+	"ui_winUpToAmount":						"最高可得",
+	"button_exit":							"离开",
+	"PrizeXBonus":							"玩法说明",
+	"error_button_exit":                    "退出",
+	"warning_button_continue": 				"继续",
+	"warning_button_exitGame": 				"退出游戏",
+	"warning_title":						"警告",
+	"error_title":							"错误",
+	"help_text_landscape":			 		"木偶剧院中隐藏着神秘的宝藏\n点击草丛中升起的木偶\n将有机会获得奖励\n\n某些木偶可以触发奖赏游戏\n你能从中发现更多的惊喜",
+    "help_text_portrait":	                "木偶剧院中隐藏着神秘的宝藏\n点击草丛中升起的木偶\n将有机会获得奖励\n\n某些木偶可以触发奖赏游戏\n你能从中发现更多的惊喜",
+	"bonus_showText":                       "选动物，碰运气",
+	"bonus_winText":                        "恭喜你赢得了",
+	"bonus_nowinText":                      "祝你下次好运", 
+	"MenuCommand": {
+		"WLA":{
+			"howToPlay": "游戏规则",
+			"payTable": "赔率表",
+			"price": "投注列表",
+			"stake": "单注金额",
+			"balance": "余额"                
+		},
+		"Commercial":{
+			"howToPlay": "游戏规则",
+			"payTable": "赔率表",
+			"price": "投注列表",
+			"stake": "单注金额",
+			"balance": "余额"     
+		},
+		"audio":{
+			"on":"是",
+			"off":"否",
+			"sound":"声音"
+		}
+    },
+	"Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },   
+	"prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+	"buttonClose": "X",
+    "paytableWager": "Ticket Cost: ",
+	"dropBoard_value":                      "神秘演出开始",
+    "gamePlay": "玩法说明",
+    "button_Close": "关闭",
+    "ticketCost": "单注金额",
+    "ticketCost_meter": "单注金额:",
+    "button_restart": "再玩一次",
+    "button_resMTM":  "再玩一次",
+    "divisionText": " | "
+}

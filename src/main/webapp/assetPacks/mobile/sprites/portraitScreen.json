@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "portraitScreen.png"
+],
+
+"frames": [
+    [1, 1, 300, 847, 0, 0, 0],
+    [1, 850, 243, 827, 0, 0, 0],
+    [246, 850, 212, 826, 0, 0, 0],
+    [303, 1, 300, 847, 0, 0, 0],
+    [460, 850, 175, 826, 0, 0, 0],
+    [605, 1, 300, 829, 0, 0, 0],
+    [907, 1, 154, 825, 0, 0, 0],
+    [637, 832, 118, 829, 0, 0, 0],
+    [757, 832, 273, 828, 0, 0, 0]
+],
+
+"animations": {
+    "portraitScreen": { "next":false,"frames": [7, 6, 4, 2, 1, 8, 5, 0, 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3] },
+	"portraitScreenBack": { "next":false,"frames": [3,0,5,8,1,2,4,6,7] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:92ecb8683262741a02fd058450a4c892:29253780b4c217b1228f8d293b39780b:1d672def0f0dbd274ae15dc33bd3d4e1$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

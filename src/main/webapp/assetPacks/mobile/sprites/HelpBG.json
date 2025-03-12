@@ -1,0 +1,22 @@
+{
+
+"images": [
+    "HelpBG.png"
+],
+
+"frames": [
+    [1, 1, 600, 960, 0, 0, 0],
+    [603, 1, 960, 600, 0, 0, 0]
+],
+
+"animations": {
+    "portraitHelpBG": { "frames": [0] },
+    "landscapeHelpBG": { "frames": [1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:22cad027666e679de2ce8e349b48e0fb:661b0ad72c3eef9f2075fd6851802182:a058bdb431e75fe0992096fec0accbc9$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

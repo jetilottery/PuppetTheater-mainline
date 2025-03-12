@@ -1,0 +1,76 @@
+{
+
+"images": [
+    "GameUI.png"
+],
+
+"frames": [
+    [1, 1, 544, 629, 0, -22, -27],
+    [1, 632, 600, 352, 0, -2, -1],
+    [1, 986, 16, 16, 0, 0, 0],
+    [1, 1004, 16, 16, 0, 0, 0],
+    [19, 986, 30, 6, 0, 0, 0],
+    [19, 994, 30, 6, 0, 0, 0],
+    [547, 1, 754, 442, 0, -15, -19],
+    [547, 445, 283, 112, 0, -2, -1],
+    [547, 559, 207, 63, 0, -1, -2],
+    [756, 559, 475, 400, 0, -6, 0],
+    [603, 961, 187, 62, 0, -1, -1],
+    [832, 445, 283, 111, 0, 0, 0],
+    [792, 961, 60, 61, 0, -2, -1],
+    [854, 961, 60, 61, 0, -2, -1],
+    [916, 961, 60, 61, 0, -2, -1],
+    [978, 961, 60, 61, 0, -2, -1],
+    [1040, 961, 177, 59, 0, -5, -3],
+    [1219, 961, 55, 56, 0, -4, -3],
+    [1117, 445, 61, 63, 0, -1, 0],
+    [1117, 510, 46, 47, 0, -3, -3],
+    [1165, 510, 46, 46, 0, -3, -3],
+    [1180, 445, 53, 54, 0, -5, -4],
+    [1213, 501, 53, 54, 0, -5, -4],
+    [1235, 445, 53, 54, 0, -5, -4],
+    [603, 624, 53, 54, 0, -5, -4],
+    [658, 624, 50, 51, 0, -1, -1],
+    [658, 677, 50, 51, 0, -1, -1],
+    [603, 680, 50, 51, 0, -1, -1],
+    [655, 730, 50, 51, 0, -1, -1]
+],
+
+"animations": {
+    "TutorialPlaqueP": { "frames": [0] },
+    "messagePlaque": { "frames": [1] },
+    "tutorialPageIconOff": { "frames": [2] },
+    "tutorialPageIconOn": { "frames": [3] },
+    "ticketCostLevelIconOff": { "frames": [4] },
+    "ticketCostLevelIconOn": { "frames": [5] },
+    "TutorialPlaqueL": { "frames": [6] },
+    "logo": { "frames": [7] },
+    "meter": { "frames": [8] },
+    "portraitMessagePlaque": { "frames": [9] },
+    "buttonCommon": { "frames": [10] },
+    "logo_en": { "frames": [11] },
+    "buttonAudioOff": { "frames": [12] },
+    "buttonAudioOn": { "frames": [13] },
+    "buttonHome": { "frames": [14] },
+    "buttonInfo": { "frames": [15] },
+    "buttonCommonPressed": { "frames": [16] },
+    "buttonMessageClosePressed": { "frames": [17] },
+    "buttonMessageClose": { "frames": [18] },
+    "ticketCostMinusPressed": { "frames": [19] },
+    "ticketCostPlusPressed": { "frames": [20] },
+    "buttonAudioOffPressed": { "frames": [21] },
+    "buttonAudioOnPressed": { "frames": [22] },
+    "buttonHomePressed": { "frames": [23] },
+    "buttonInfoPressed": { "frames": [24] },
+    "ticketCostMinus": { "frames": [25] },
+    "ticketCostMinusInactive": { "frames": [26] },
+    "ticketCostPlus": { "frames": [27] },
+    "ticketCostPlusInactive": { "frames": [28] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:8f04be076cafc18147888b24bd7e63ac:918475baacb61da5574a94dccefb0d1d:ba29853d8c454f82443a40af26f6b409$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,30 @@
+{
+
+"images": [
+    "Mask.png"
+],
+
+"frames": [
+    [1, 1, 960, 600, 0, 0, 0],
+    [963, 1, 960, 600, 0, 0, 0],
+    [1, 603, 960, 600, 0, 0, 0],
+    [963, 603, 960, 600, 0, 0, 0],
+    [1, 1205, 960, 600, 0, 0, 0],
+    [963, 1205, 960, 600, 0, 0, 0]
+],
+
+"animations": {
+    "mask_I": { "frames": [0] },
+    "mask_II": { "frames": [1] },
+    "mask_III": { "frames": [2] },
+    "mask_IV": { "frames": [3] },
+    "mask_V": { "frames": [4] },
+    "mask_VI": { "frames": [5] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:75b900bbf7e80cfe161f66247b3dad96:ef8105901280a86822a0bd8ce733cfe8:b1096359ebe3bd89c2bff3731be27c70$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

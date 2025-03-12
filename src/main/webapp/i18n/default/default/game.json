@@ -1,0 +1,77 @@
+{			
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "demo": 				    "TRY",
+    "button_play": 				"PLAY",
+    "button_buy": 				"BUY",
+    "button_try": 				"TRY",
+    "button_continue":			"CONTINUE",
+    "button_auto":              "AUTO PLAY",
+    "button_cancel":            "STOP",
+    "button_move2moneyGame":	"MOVE TO MONEY",
+    "wager":					"TICKET COST",
+    "balance":					"Balance:",
+    "wins":						"Win:",
+    "wins_demo":				"Demo Win:",
+    "button_reveal":			"AUTO PLAY",
+    "message_nonWin":			"BETTER LUCK NEXT TIME",
+    "message_buyWin":			"CONGRATULATIONS!\nYou have won",
+    "message_tryWin":			"THANKS FOR PLAYING!\nYou could have won",
+    "message_anonymousTryWin":  "THANKS FOR PLAYING!\nYou could have won",
+    "ui_winUpToAmount":			"WIN UP TO",
+    "button_exit":				"EXIT",
+    "PrizeXBonus":				"HOW TO PLAY",
+    "error_button_exit":        "EXIT",
+    "warning_button_continue": 	"CONTINUE",
+	"warning_button_exitGame": 	"EXIT",
+	"warning_title":			"",
+	"error_title":				"",
+    "help_text_landscape":		"Choose 8 puppets in search of bonus round entries and instant win prizes!",
+    "help_text_portrait":	    "Choose 8 puppets in search bonus round entries and instant win prizes!",
+    "bonus_showText":           "Pick a puppet!",
+    "bonus_winText":            "You have won ",
+    "bonus_nowinText":          "BETTER LUCK NEXT TIME",    
+    "dropBoard_value":          "Pick-A-Puppet Bonus Round",
+    "gamePlay": "HOW TO PLAY",
+    "button_Close": "OK",
+    "ticketCost": "TICKET COST",
+    "ticketCost_meter": "Ticket Cost:",
+    "button_restart": "PLAY AGAIN",
+    "button_resMTM":  "TRY AGAIN",
+    "divisionText": " | ",
+    "buttonClose": "X",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "paytableWager": "Ticket Cost: ",
+    "MenuCommand": {
+    "WLA":{
+        "howToPlay": "Game Rules",
+        "payTable": "Prize Table",
+        "price": "Price",
+        "stake": "Stake",
+        "balance": "Balance"                
+    },
+    "Commercial":{
+        "howToPlay": "Game Rules",
+        "payTable": "Paytable",
+        "price": "Price",
+        "stake": "Stake",
+        "balance": "Balance"     
+    },
+    "audio":{
+        "on":"On",
+        "off":"Off",
+        "sound":"Sound"
+    }
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+    "sboxHowToPlay":["<section><h2><i>The Lucky Forest</i></h2<p>Are you ready to play a Pick 8 game? <i>The Lucky Forest</i> gives you 8 opportunities to uncover animals for each ticket.</p><p>Try to get animals with an instant win to win the associated prize. If you get a bonus symbol, your get a secondary chance to uncover a bonus prize.</p><ul><li>How to Play</li><li>Auto Play / Stop</li><li>About the Game</li><li>Rules</li></ul><h2>How to Play</h2><h3>Ticket Cost</h3><p>Displays the current ticket cost.</p><p>Press the left arrow (–) to decrease the ticket cost.</p><p>Press the right arrow (+) to increase the ticket cost.</p><p>Press BUY to deduct the ticket cost from the balance and play the game. </p><b>[top]</b><h2>Auto Play / Stop</h2><p>Press AUTO PLAY to automatically play the game to completion. Game play continues until no opportunity left. When AUTO PLAY button is pressed, it will be replaced by STOP button. Players can press STOP to stop automatically playing. When STOP button is pressed, it will turn back to AUTO PLAY button. </p><b>[top]</b><h2>About The Game</h2><p>The object of the game is to uncover an Instant Win or a bonus symbol to win the associated prize.</p><h3>Game Screen</h3><p>After a ticket is purchased, the game displays a 8-chances ticket.</p><h3>Winning a Prize</h3><p>Click animals or press Auto Play button to reveal the animals. If an instant win is revealed, the associated prize will be awarded. If a bonus symbol is revealed, and a bonus amount greater than $0, the player wins the corresponding amount.</p><p>The total win will be the sum of all winning prize.</p><h3>Game Completion</h3><p>The game ends when 0 opportunity remain. A closing message appears, indicating the game’s outcome.</p><b>[top]</b><h2>Rules</h2><p>Misuse or malfunction voids all pays and plays.</p><p>Wins are shown in currency. </p><b>[top]</b><h3>Intellectual Property</h3><p>© 2017 IGT. All rights reserved. All other trademarks used herein are owned by IGT or its affiliates, may not be used without permission, and where indicated with a ®, are registered in the U.S. Patent and Trademark Office.</p><p>Last updated 3 Aug 2017.</p> <p> </p></section>"]
+}
